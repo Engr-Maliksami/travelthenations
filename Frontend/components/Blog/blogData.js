@@ -1,0 +1,51 @@
+export const blogData = [
+	{
+		id: 1,
+		title: "What Is The Crypto Volatility Index (CVI)?",
+		date: "Dec. 8, 2024",
+		content: "The Crypto Volatility Index (CVI) is a decentralized solution used as a benchmark to track",
+		category: "Sponsored",
+		img: "1.png",
+	},
+	{
+		id: 2,
+		title: "What Is The Crypto Volatility Index (CVI)?",
+		date: "Feb. 14, 2024",
+		content: "The Crypto Volatility Index (CVI) is a decentralized solution used as a benchmark to track",
+		category: "Sponsored",
+		img: "2.png",
+	},
+	{
+		id: 3,
+		title: "What Is The Crypto Volatility Index (CVI)?",
+		date: "Oct. 8, 2024",
+		content: "The Crypto Volatility Index (CVI) is a decentralized solution used as a benchmark to track",
+		category: "Sponsored",
+		img: "3.png",
+	},
+	{
+		id: 4,
+		title: "What Is The Crypto Volatility Index (CVI)?",
+		date: "Dec. 8, 2024",
+		content: "The Crypto Volatility Index (CVI) is a decentralized solution used as a benchmark to track",
+		category: "Sponsored",
+		img: "4.png",
+	},
+	{
+		id: 5,
+		title: "What Is The Crypto Volatility Index (CVI)?",
+		date: "jan. 8, 2024",
+		content: "The Crypto Volatility Index (CVI) is a decentralized solution used as a benchmark to track",
+		category: "Sponsored",
+		img: "5.png",
+	},
+	{
+		id: 6,
+		title: "What Is The Crypto Volatility Index (CVI)?",
+		date: "Dec. 10, 2024",
+		content: "The Crypto Volatility Index (CVI) is a decentralized solution used as a benchmark to track",
+		category: "Sponsored",
+		img: "6.png",
+	},
+];
+
